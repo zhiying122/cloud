@@ -1,3 +1,5 @@
 health_data.db
 health_monitor.log
 __pycache__/
+.vscode/
+.kiro/
